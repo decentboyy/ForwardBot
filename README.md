@@ -1,5 +1,5 @@
 # Forward Bot
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/ForwardBot)
 <p align="center"><a href="#"><img src="https://telegra.ph/file/fa4d9d23a211f6bcf807b.jpg" width="250"></a></p> 
 <h1 align="center"><b>Forwarder Bot</b></h1>
 <h4 align="center">A Simple Forwarder Bot In Telethon TO Forward one Channel Contents to Another</h4>
